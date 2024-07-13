@@ -120,8 +120,7 @@ export const experiences = [
     date: "July 2022 - Aug 2022",
     desc: "By utilizing the ESP32 tool, this Smart Switch project aims to deliver a robust, scalable, and secure home automation solution ",
     skills: ["ESP32"],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
+   },
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",

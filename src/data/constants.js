@@ -201,19 +201,7 @@ export const projects = [
     github: "https://github.com/BTWITSNIKHIL/SwiggyClone-React--main.git",
     webapp: "https://swiggy-clone-react-main.vercel.app/",
   },
-  {
-    id: 0,
-    title: "Netflix",
-    date: "Apr 2024 - Present",
-    description:
-      "The Netflix clone project aims to replicate the core features and functionalities of the popular streaming platform Netflix using React.js, a powerful JavaScript library for building user interfaces.",
-    // image:
-    //   "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["JavaScript", "React Js", "Firebase", "Redux", "TailwindCss"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://netflix-nine-sigma.vercel.app/",
-  },
+
   {
     id: 1,
     title: "LearnX",
@@ -226,6 +214,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/BTWITSNIKHIL/learnX.git",
     webapp: "https://learn-x-flame.vercel.app/",
+  },
+    {
+    id: 0,
+    title: "Netflix",
+    date: "Apr 2024 - Present",
+    description:
+      "The Netflix clone project aims to replicate the core features and functionalities of the popular streaming platform Netflix using React.js, a powerful JavaScript library for building user interfaces.",
+    // image:
+    //   "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    tags: ["JavaScript", "React Js", "Firebase", "Redux", "TailwindCss"],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://netflix-nine-sigma.vercel.app/",
   },
   {
     id: 2,
